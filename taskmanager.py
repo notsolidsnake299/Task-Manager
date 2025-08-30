@@ -100,7 +100,7 @@ def system_settings(stdscr):
             break
 
 # --- MONITOR --- #
-def cpu_monitor(stdscr): #this has writen by ai, and corrected for me, just, am new in this world of programming, sorry for that 
+def cpu_monitor(stdscr): #This code was written with the assistance of an AI and corrected by me. As a newcomer to the world of programming, I apologize for any errors. 
     stdscr.nodelay(True)
     curses.curs_set(0)
     curses.start_color()
