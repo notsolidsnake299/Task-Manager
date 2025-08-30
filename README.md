@@ -10,7 +10,8 @@ Hello World!
 
 The project is considered incomplete for now. I'll continue to improve it at some point.
 
-The program is still imperfect, so I'll keep improving it as fast as I can. Once it's done, you can use it! :D 
+I asked an AI to help me with and explain some parts of this code. I'm new to programming and wanted to make my project a reality, so I apologize if the code contains any bugs
+
 Feel free to use the code as a base for your own task manager.
 
 Task Manager inspired by Glances.
